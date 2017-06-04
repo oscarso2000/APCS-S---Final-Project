@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ buildGUI()
+comment1.params=
+comment1.target=void\ run()
+comment2.params=
+comment2.target=void\ drawGuessesRemaining()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=void\ drawLettersGuessed()
+comment5.params=str
+comment5.target=int\ playAgainDialog(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getText()
+comment7.params=str
+comment7.target=void\ setText(java.lang.String)
+comment8.params=
+comment8.target=void\ run()
+comment9.params=
+comment9.target=void\ drawSecretWord()
+numComments=10

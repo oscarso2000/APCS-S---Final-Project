@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ checkIfWon()
+comment1.params=str
+comment1.target=boolean\ checkUserGuess(java.lang.String)
+comment2.params=wordList
+comment2.target=java.lang.String\ chooseWord(java.lang.String[])
+comment3.params=
+comment3.target=void\ createAlphabetSet()
+comment4.params=message
+comment4.target=void\ playAgain(java.lang.String)
+comment5.params=
+comment5.target=void\ loseSequence()
+comment6.params=
+comment6.target=void\ winSequence()
+comment7.params=
+comment7.target=void\ setUpGame()
+comment8.params=str
+comment8.target=void\ updateSecretWord(java.lang.String)
+comment9.params=
+comment9.target=void\ play()
+numComments=10
